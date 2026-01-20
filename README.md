@@ -149,3 +149,30 @@ print("\n--- Insect Stage ---")
 insect = Insect()
 insect.move()
 insect.feedOn()
+
+
+
+
+
+
+
+
+
+doc-link:
+
+
+
+
+
+
+
+
+
+
+
+
+
+api-for every page to access a link is provided
+api will be mediater between server and frontend and server and database
+key terminolgies:
+URL - endpoint- the destination address
