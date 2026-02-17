@@ -3,6 +3,9 @@ Our college is mainly focusing on python coding.
 Upto week-8 basic theory is coverted in 3rd semister.
 
 
+link batch-3 : https://shorturl.at/IzFWI
+
+
 
 class is a blueprint of objects
 object is instance of a class
